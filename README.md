@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mohammad</h1>
-<h3 align="center">Future Frontend Developer 🚀</h3>
 
----
-
-<h2 align="center">🔥 My Logo</h2>
 
 <p align="center">
   <img src="LINK-LOGO-HERE" width="200"/>
