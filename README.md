@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="file_00000000f004720ab4e3678794a57d31.jpg" width="200"/>
+  <img src="" width="200"/>
 </p>
 
 ---
