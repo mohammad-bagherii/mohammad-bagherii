@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="Gemini_Generated_Image_b725awb725awb725.png" width="200"/>
-</p>
+</p> -->
 
 ---
 
